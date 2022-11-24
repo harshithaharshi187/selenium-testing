@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-14T14:32:23 IST" name="Suite" finished-at="2022-11-14T14:32:44 IST" duration-ms="21680">
+    <groups>
+    </groups>
+    <test started-at="2022-11-14T14:32:23 IST" name="Test" finished-at="2022-11-14T14:32:44 IST" duration-ms="21680">
+      <class name="amazonpage.class3">
+        <test-method is-config="true" signature="opening_browser()[pri:0, instance:amazonpage.class3@a2431d0]" started-at="2022-11-14T14:32:23 IST" name="opening_browser" finished-at="2022-11-14T14:32:27 IST" duration-ms="4536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opening_browser -->
+        <test-method signature="title()[pri:1, instance:amazonpage.class3@a2431d0]" started-at="2022-11-14T14:32:27 IST" name="title" finished-at="2022-11-14T14:32:27 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method signature="url()[pri:2, instance:amazonpage.class3@a2431d0]" started-at="2022-11-14T14:32:27 IST" name="url" finished-at="2022-11-14T14:32:27 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="dropdown()[pri:3, instance:amazonpage.class3@a2431d0]" started-at="2022-11-14T14:32:27 IST" name="dropdown" finished-at="2022-11-14T14:32:28 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="screenshot()[pri:4, instance:amazonpage.class3@a2431d0]" started-at="2022-11-14T14:32:28 IST" name="screenshot" finished-at="2022-11-14T14:32:28 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="close()[pri:0, instance:amazonpage.class3@a2431d0]" started-at="2022-11-14T14:32:28 IST" name="close" finished-at="2022-11-14T14:32:44 IST" duration-ms="16273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- amazonpage.class3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
